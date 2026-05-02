@@ -1,5 +1,5 @@
 Matrix Hardware
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -192,10 +192,4 @@ Matrix Hardware
         </div>
     </main>
 
-    <footer style="text-align: center; padding: 40px; background: #f4f4f4; border-top: 1px solid #ddd;">
-        <p>&copy; 2026 Matrix Hardware Tanzania. All Rights Reserved.</p>
-        <p style="font-size: 0.8rem; margin-top: 10px; color: #777;">Located in Dar es Salaam</p>
-    </footer>
-
-</body>
-</html>
+    <footer style="text-align: center; padding: 40px; 
